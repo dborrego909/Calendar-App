@@ -1,0 +1,16 @@
+body {
+    display:flex;
+    justify-content: space-evenly;
+    margin: 0;
+    border-style: dotted, 12px;
+    border-color: red;
+}
+
+/* #container {
+    display: flex;
+} */
+
+#month {
+    display: flex;
+    align-self: self-start;
+}
